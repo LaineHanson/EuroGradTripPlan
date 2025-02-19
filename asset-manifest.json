@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/travel-planner/static/css/main.f855e6bc.css",
-    "main.js": "/travel-planner/static/js/main.7b6af971.js",
-    "static/js/453.a4740b34.chunk.js": "/travel-planner/static/js/453.a4740b34.chunk.js",
-    "static/media/logo.svg": "/travel-planner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/travel-planner/index.html",
-    "main.f855e6bc.css.map": "/travel-planner/static/css/main.f855e6bc.css.map",
-    "main.7b6af971.js.map": "/travel-planner/static/js/main.7b6af971.js.map",
-    "453.a4740b34.chunk.js.map": "/travel-planner/static/js/453.a4740b34.chunk.js.map"
+    "main.css": "/EuroGradTripPlan/static/css/main.f855e6bc.css",
+    "main.js": "/EuroGradTripPlan/static/js/main.6a946d95.js",
+    "static/js/453.a4740b34.chunk.js": "/EuroGradTripPlan/static/js/453.a4740b34.chunk.js",
+    "static/media/logo.svg": "/EuroGradTripPlan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EuroGradTripPlan/index.html",
+    "main.f855e6bc.css.map": "/EuroGradTripPlan/static/css/main.f855e6bc.css.map",
+    "main.6a946d95.js.map": "/EuroGradTripPlan/static/js/main.6a946d95.js.map",
+    "453.a4740b34.chunk.js.map": "/EuroGradTripPlan/static/js/453.a4740b34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7b6af971.js"
+    "static/js/main.6a946d95.js"
   ]
 }
